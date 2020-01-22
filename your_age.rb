@@ -1,4 +1,4 @@
-require)relative "./current_age_for_birth_year"
+require_relative "./current_age_for_birth_year"
 
 puts "Enter your birth year"
 birth_year = gets.to_I
